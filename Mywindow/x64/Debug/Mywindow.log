@@ -1,0 +1,5 @@
+﻿  moc Mywindow.h
+  Mywindow.cpp
+  main.cpp
+  moc_Mywindow.cpp
+  Mywindow.vcxproj -> D:\c++oop\Mywindow\x64\Debug\Mywindow.exe
