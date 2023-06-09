@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/GISLite">
+        <file>icons/cursor-32.png</file>
+        <file>icons/handcursor-32.png</file>
+        <file>icons/backarrow-32.png</file>
+        <file>icons/forwardarrow-32.png</file>
+        <file>icons/earth-32.png</file>
+        <file>icons/paint-palette-32.png</file>
+        <file>icons/edit-32.png</file>
+        <file>icons/plus-32.png</file>
+        <file>icons/trash-32.png</file>
+        <file>icons/circle-32.png</file>
+        <file>icons/line-32.png</file>
+        <file>icons/polygon-32.png</file>
+        <file>icons/rectangle-32.png</file>
+        <file>icons/t-32.png</file>
+        <file>icons/triangle-32.png</file>
+        <file>icons/editpoint-32.png</file>
+        <file>icons/enlarge-32.png</file>
+        <file>icons/rotate-32.png</file>
+        <file>icons/blue-handcursor-32.png</file>
+        <file>icons/red-cursor-32.png</file>
+        <file>icons/green-plus-32.png</file>
+        <file>icons/point-32.png</file>
+        <file>icons/polyline-32.png</file>
+        <file>icons/move-32.png</file>
+    </qresource>
+</RCC>
